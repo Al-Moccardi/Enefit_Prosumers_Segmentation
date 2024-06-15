@@ -1,0 +1,21 @@
+{
+    "num_files": 15,
+    "total_size": 1070070061,
+    "sizes": {
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\client.csv": 1368122,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\electricity_prices.csv": 769348,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\example_test_files/client.csv": 8933,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\example_test_files/electricity_prices.csv": 4823,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\example_test_files/forecast_weather.csv": 4702151,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\example_test_files/gas_prices.csv": 229,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\example_test_files/historical_weather.csv": 1139236,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\example_test_files/revealed_targets.csv": 632314,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\example_test_files/sample_submission.csv": 174748,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\example_test_files/test.csv": 614332,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\forecast_weather.csv": 781119880,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\gas_prices.csv": 23898,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\historical_weather.csv": 180530222,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\train.csv": 98978994,
+        "c:\\Users\\ALBER\\OneDrive\\Desktop\\Reply Projects\\data\\weather_station_to_county_mapping.csv": 2831
+    }
+}
