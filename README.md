@@ -2,6 +2,8 @@
 
 Overview
 The Enefit Energy Prosumer Analysis Platform is a comprehensive tool designed to analyze and visualize energy consumption and production data. This platform provides an array of functionalities including exploratory data analysis (EDA), consumer segmentation, prosumer segmentation, and power grid management. It leverages advanced data processing techniques and machine learning to offer detailed insights into customer behaviors and preferences.
+![image](https://github.com/Al-Moccardi/Enefit_Prosumers_Segmentation/assets/150179413/05d63485-4b76-4b27-a011-79bd3147d5ea)
+
 
 Features
 The platform includes several key features:
