@@ -38,10 +38,10 @@ It also has a placeholder for future functionality to add new data.
 
 --- 
 
-##Contribution and License
+## Contribution and License
 The Enefit Energy Prosumer Analysis Platform welcomes contributions from the community. If you wish to contribute, you can fork the repository and submit a pull request with your changes. The project is licensed under the MIT License, allowing for broad usage and contribution.
 Data given available by the Enefit property on Kaggle
 https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers
 
-##Contact
+## Contact
 For any questions or issues, you can contact the project maintainers at [your-email@example.com].
